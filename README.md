@@ -5,9 +5,9 @@
 Me chamo Vinicius Okagawa Rodrigues, tenho 23 anos e sou natural de Apucarana. Concluí o ensino superior em janeiro de 2025 na UEM em ciência da computação. Atualmente, estou cursando uma pós-graduação em INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING. Gosto muito de games e tecnologia em geral e sempre estou buscando me atualizar e conhecer mais sobre toda essa área.
 
  <p align="left"> 
-      <a href="https://github.com/Vinicius?tab=followers">
+      <a href="https://github.com/Rockyiu?tab=followers">
          <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rockyiu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Rockyiut?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Rockyiu?tab=repositories&sort=stargazers">
          <img alt="Total de Estrelas" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rockyiu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
    </p>
 
